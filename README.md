@@ -2,7 +2,7 @@ Hello, This is .vimrc
 
 # Debian/Ubuntu
 1. sudo apt-get install git
-2. git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/vundle
+2. git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/vundle.vim
 3. vim :PluginInstall
 
 # OSX
