@@ -26,13 +26,4 @@ set title
 set ruler
 set ts=4
 
-map! () ()<ESC>i
-map! (); ();<ESC>hi
-map! [] []<ESC>i
-map! {} {}<ESC>i
-map! {}; {};<BS><ESC>i<CR><ESC>O<BS>
-map! <> <><ESC>i
-map! '' ''<ESC>i
-map! "" ""<ESC>i
-
 syntax on
